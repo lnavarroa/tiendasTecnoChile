@@ -7,9 +7,9 @@ spdigital www.spdigital.cl
 wei www.wei.cl   
 lancenter www.lancenter.cl   
 distec https://distecchile.cl/   
-ttchile https://ttchile.cl/ 
-cintegral https://www.cintegral.cl 
-bip https://www.bip.cl/ 
+ttchile https://ttchile.cl/   
+cintegral https://www.cintegral.cl   
+bip https://www.bip.cl/   
 top pc http://www.toppc.cl  
 mercado tech https://www.mercadotech.cl/   
 alca https://www.alca.cl/   
