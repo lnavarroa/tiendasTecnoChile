@@ -1,6 +1,6 @@
 # tiendasTecnoChile
 
-Listado con tiendas de tecnología en chile, separados por región comuna
+Listado con tiendas de tecnología en chile
 
 pcfactory www.pcfactory.cl   
 spdigital www.spdigital.cl   
