@@ -2,11 +2,11 @@
 
 Listado con tiendas de tecnología en chile, separados por región comuna
 
-pcfactory www.pcfactory.cl 
-spdigital www.spdigital.cl 
-wei www.wei.cl 
-lancenter www.lancenter.cl 
-distec https://distecchile.cl/ 
+pcfactory www.pcfactory.cl   
+spdigital www.spdigital.cl   
+wei www.wei.cl   
+lancenter www.lancenter.cl   
+distec https://distecchile.cl/   
 ttchile https://ttchile.cl/ 
 cintegral https://www.cintegral.cl 
 bip https://www.bip.cl/ 
